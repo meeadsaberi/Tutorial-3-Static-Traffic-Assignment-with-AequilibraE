@@ -42,9 +42,13 @@ https://github.com/bstabler/TransportationNetworks/tree/master/GoldCoast
 and
 https://github.com/bstabler/TransportationNetworks/tree/master/SiouxFalls
 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/cff78ccc-7433-44b5-8143-c61f675608de" />
+
 - SiouxFalls_net.tntp — network links with capacities and travel times
 - SiouxFalls_node.tntp — node coordinates (longitude, latitude)
 - SiouxFalls_trips.tntp — OD matrix in flat TNTP format
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/47a673ff-9fc3-442b-b5dc-ff1042206643" />
 
 - Goldcoast_network_2016_01.tntp — network links with capacities and travel times
 - Goldcoast_nodes_2016_01.tntp — node coordinates (longitude, latitude)
@@ -52,8 +56,12 @@ https://github.com/bstabler/TransportationNetworks/tree/master/SiouxFalls
 
 ## Example outputs
 - Network map (links and nodes)
+
 - Convergence chart (Frank–Wolfe algorithm)
+<img width="395" height="245" alt="image" src="https://github.com/user-attachments/assets/2503d2f2-4db4-432f-b4cc-76108623faec" />
+
 - Flow visualisations (line width ~ volume; colour ~ flow or V/C ratio)
+<img width="380" height="395" alt="image" src="https://github.com/user-attachments/assets/a7ea0f59-1397-4933-8d97-2e6f8b688113" />
 
 ## Next steps
 Once you’ve completed the base tutorial, try:
