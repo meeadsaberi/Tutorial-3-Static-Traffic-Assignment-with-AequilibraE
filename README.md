@@ -35,6 +35,7 @@ https://colab.research.google.com/drive/1F5f5S3s1OnZW-T-F80OMRsYF2oDSPYUq
 
 ## Files
 - [Tutorial_3_Static_Traffic_Assignment_in_Python_using_AequilibraE_Gold_Coast.ipynb](https://github.com/meeadsaberi/Tutorial-3-Static-Traffic-Assignment-with-AequilibraE/blob/main/AequilibraE%20Static%20Assignment%20Tutorial_%20Gold%20Coast%20Network)
+- [Tutorial_3_Static_Traffic_Assignment_in_Python_using_AequilibraE_Sioux_Falls.ipynb]https://github.com/meeadsaberi/Tutorial-3-Static-Traffic-Assignment-with-AequilibraE/blob/main/AequilibraE%20Static%20Assignment%20Tutorial_%20Sioux%20Falls%20Network
 
 ## Data
 The notebook reads open data directly from the Transportation Networks repository:
